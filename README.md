@@ -1,2 +1,0 @@
-# mipt
-Programming in MIPT
